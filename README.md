@@ -4,7 +4,7 @@
 
 This project presents an interactive monthly sales dashboard built using **Power BI**, designed to analyze sales performance and support data-driven decision-making. The dashboard provides a clear overview of key business metrics, sales trends, and customer insights through a clean and user-friendly layout.
 
-![Final Dashboard Preview]("C:\Users\User\Pictures\Screenshots\لقطة شاشة 2026-03-11 031539.png") 
+![Final Dashboard Preview]![Uploading image.png…]()
 
 ---
 
